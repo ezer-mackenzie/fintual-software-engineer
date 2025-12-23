@@ -12,10 +12,9 @@ Este proyecto implementa un módulo de gestión de portafolio para una app de in
 ## Documentación
 
 - Consulta la documentación detallada en la carpeta [`docs/`](docs/):
-  - [`full_conversation.md`](docs/copilot/FULL_CONVERSATION.md.md): Registro completo de la interacción y decisiones.
-  - [`portfolio_design.md`](docs/copilot/PORTFOLIO_DESIGN.md.md): Diseño y justificación de la solución.
-  - [`quick_start.md`](docs/QUICK_START.md.md): Guía rápida para ejecutar y testear el proyecto.
-  - [`SECURITY.MD`](SECURITY.MD): Consideraciones de seguridad.
+  - [`full_conversation.md`](docs/copilot/FULL_CONVERSATION.md): Registro completo de la interacción y decisiones.
+  - [`portfolio_design.md`](docs/copilot/PORTFOLIO_DESIGN.md): Diseño y justificación de la solución.
+  - [`quick_start.md`](docs/QUICK_START.md): Guía rápida para ejecutar y testear el proyecto.
 
 ## Requisitos
 
